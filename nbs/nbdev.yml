@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_cards"
+  site-url: "https://appleJuiceB.github.io/nbdev_cards"
+  description: "sample of how to create deck of cards lib using nbdav"
+  repo-branch: main
+  repo-url: "https://github.com/appleJuiceB/nbdev_cards"
